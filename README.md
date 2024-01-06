@@ -7,9 +7,9 @@ Fullstack Software Engineer
 I love code!
 
 * 🌍  I'm based in Irkutsk
-* 🖥️  See my portfolio at [My website](http://luckyrus.dev)
+* 🖥️  See my portfolio at [My website](http://luckyrus.ddns.net)
 * ✉️  You can contact me at [artemiy@luckyrus.ru](mailto:artemiy@luckyrus.ru)
-* 🚀  I'm currently working on [VoxelEngine, 2D DnD Game, CineMoTune](http://luckyrus.dev)
+* 🚀  I'm currently working on [VoxelEngine, 2D DnD Game, CineMoTune](http:/luckyrus.ddns.net)
 * 🧠  I'm learning JS (Telegraf) and Java, GDScipt
 * 🤝  I'm open to collaborating on Other interesting projects
 * ⚡  I have a cat named Malvina
