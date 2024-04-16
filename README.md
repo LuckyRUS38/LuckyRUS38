@@ -9,7 +9,7 @@ I love code!
 * 🌍  I'm based in Irkutsk
 * 🖥️  See my portfolio at [My website](http://luckyrus.ddns.net) (*AT THIS MOMENT - NOT WORKING*)
 * ✉️  You can contact me at [artemiy@luckyrus.ru](mailto:artemiy@luckyrus.ru)
-* 🚀  I'm currently working on [CineMoTune, 2D-DnD, Portfolio](http:/luckyrus.ddns.net)
+* 🚀  I'm currently working on [CineMoTune, 2D-DnD, Portfolio, Todo App](http:/luckyrus.ddns.net)
 * 🧠  I'm learning JS (Telegraf) and Java, GDScipt
 * 🤝  I'm open to collaborating on Other interesting projects
 * ⚡  I have a cat named Malvina
