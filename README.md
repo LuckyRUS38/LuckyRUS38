@@ -7,7 +7,7 @@ Fullstack Software Engineer
 I love code!
 
 * 🌍  I'm based in Irkutsk
-* 🖥️  See my portfolio at [My website](http://luckyrus.ddns.net)
+* 🖥️  See my portfolio at [My website](http://luckyrus.ddns.net) (*AT THIS MOMENT - NOT WORKING*)
 * ✉️  You can contact me at [artemiy@luckyrus.ru](mailto:artemiy@luckyrus.ru)
 * 🚀  I'm currently working on [CineMoTune, 2D-DnD, Portfolio](http:/luckyrus.ddns.net)
 * 🧠  I'm learning JS (Telegraf) and Java, GDScipt
