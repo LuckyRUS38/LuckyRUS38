@@ -30,8 +30,13 @@ An AI-assisted experiment in learning modern Frontend Development from scratch t
 
 * HTML & CSS Fundamentals
 * First Mini Project Completed ✅
-* React Roadmap In Progress 🔄
+* Second Mini Project Completed ✅
+* First bunch of Mini Projects on JS Completed ✅
+* React Roadmap ✅
+* JS and TS Roadmap ✅
 
 📚 Repository: https://github.com/LuckyRUS38/frontend-learning-junior-plus
 
+<img src="https://github.com/LuckyRUS38/frontend-learning-junior-plus/blob/main/assets/images/second-project.png" width="700" alt="Frontend Junior+ Roadmap Project" />\
 <img src="https://github.com/LuckyRUS38/frontend-learning-junior-plus/blob/main/assets/images/first-project.png" width="700" alt="Frontend Junior+ Roadmap Project" />
+
